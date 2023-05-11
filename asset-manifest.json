@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MarvelPortal/static/css/main.20660bba.chunk.css",
+    "main.js": "/MarvelPortal/static/js/main.2b137791.chunk.js",
+    "main.js.map": "/MarvelPortal/static/js/main.2b137791.chunk.js.map",
+    "runtime-main.js": "/MarvelPortal/static/js/runtime-main.788e5eb7.js",
+    "runtime-main.js.map": "/MarvelPortal/static/js/runtime-main.788e5eb7.js.map",
+    "static/js/2.ed15b972.chunk.js": "/MarvelPortal/static/js/2.ed15b972.chunk.js",
+    "static/js/2.ed15b972.chunk.js.map": "/MarvelPortal/static/js/2.ed15b972.chunk.js.map",
+    "index.html": "/MarvelPortal/index.html",
+    "static/css/main.20660bba.chunk.css.map": "/MarvelPortal/static/css/main.20660bba.chunk.css.map",
+    "static/js/2.ed15b972.chunk.js.LICENSE.txt": "/MarvelPortal/static/js/2.ed15b972.chunk.js.LICENSE.txt",
+    "static/media/Avengers.4065c8f9.png": "/MarvelPortal/static/media/Avengers.4065c8f9.png",
+    "static/media/Avengers_logo.9eaf2193.png": "/MarvelPortal/static/media/Avengers_logo.9eaf2193.png",
+    "static/media/error.42292aa1.gif": "/MarvelPortal/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/MarvelPortal/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/MarvelPortal/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.788e5eb7.js",
+    "static/js/2.ed15b972.chunk.js",
+    "static/css/main.20660bba.chunk.css",
+    "static/js/main.2b137791.chunk.js"
+  ]
+}
